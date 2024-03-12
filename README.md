@@ -6,7 +6,6 @@
 * [Technologies Used](#technologies-used)
 * [Observation](#observation)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 ## General Information
 - This assignment is based on the bike-sharing system dataset. The dataset contains the hourly count of rental bikes between years 2011 and 2012 in the Capital bikeshare system with the corresponding weather and seasonal information. The dataset is publicly available on the UCI Machine Learning Repository. The dataset has been used for this assignment is available at the following link: [Bike Sharing Dataset](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
